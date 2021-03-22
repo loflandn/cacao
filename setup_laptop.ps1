@@ -34,3 +34,5 @@ executeScript "05-PersonalProjects.ps1";
 executeScript "06-ConfigureWindowsEnvironment.ps1";
 
 Enable-UAC
+Enable-MicrosoftUpdate
+Install-WindowsUpdate -acceptEula
