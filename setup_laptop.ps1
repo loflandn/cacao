@@ -1,5 +1,4 @@
 # Description: Boxstarter Script  
-# Author: Rohit Sankaran
 # Dev settings for my work laptop
 
 Disable-UAC
